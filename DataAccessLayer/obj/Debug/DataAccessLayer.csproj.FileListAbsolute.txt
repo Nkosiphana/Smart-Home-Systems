@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\newWork\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\newWork\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\newWork\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\newWork\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\newWork\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\newWork\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\Moyo_Vincent_SEN381_PracticalAssignment\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\Moyo_Vincent_SEN381_PracticalAssignment\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\Moyo_Vincent_SEN381_PracticalAssignment\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Moyo_Vincent_SEN381_PracticalAssignment\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Moyo_Vincent_SEN381_PracticalAssignment\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\Moyo_Vincent_SEN381_PracticalAssignment\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
